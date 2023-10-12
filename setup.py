@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = '0.0.0'
 
-REPO_NAME = 'Intel-Image-Classification'
+REPO_NAME = 'Intel-Image-Classification'  # change repo name according to your project
 AUTHOR_USER_NAME = 'Ansari Ehteesham'
 SRC_REPO = "CNNClassifier"
 AUTHOR_EMAIL = 'aeengineer44@gmail.com'
